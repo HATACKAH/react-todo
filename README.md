@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is it?
+To-Do App with simulation of loading data from the server, modal window and hooks.
+
 ## Что это?
 Туду апп с симуляцией подгрузки данных с сервера, модальном окном и хуками сделанный на react.
 
