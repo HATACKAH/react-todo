@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To-Do App with simulation of loading data from the server, modal window and hooks.
 
 ## Что это?
-Туду апп с симуляцией подгрузки данных с сервера, модальном окном и хуками сделанный на react.
+Туду апп с симуляцией подгрузки данных с сервера, модальном окном и хуками.
 
 ## Available Scripts
 
